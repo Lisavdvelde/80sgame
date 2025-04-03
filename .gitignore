@@ -1,0 +1,12 @@
+index.js
+platform.js
+classes/player.js
+classes/sprite.js
+eventListeners.js
+achtergrond.png
+
+# Andere bestanden die je misschien wilt negeren
+*.log
+node_modules/
+.vscode/
+*.tmp
